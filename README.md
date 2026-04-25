@@ -125,6 +125,7 @@ Remote Support: AnyDesk • TeamViewer
   <li>Active Directory attack & defense scenarios</li>
   <li>SIEM monitoring and log analysis (Wazuh)</li>
   <li>Building a cybersecurity home lab portfolio</li>
+  <li>ISO/IEC 27001 (Information Security)</li>
 </ul>
 
 ---
