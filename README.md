@@ -24,8 +24,7 @@
 <h2>About Me</h2>
 
 <p>
-Técnico en informática y ciberseguridad con experiencia en soporte técnico, administración básica de sistemas y entornos virtualizados.  
-Actualmente enfocado en el desarrollo de habilidades en ciberseguridad defensiva, análisis de logs y laboratorios prácticos con Active Directory y SIEM.
+IT and cybersecurity technician with experience in technical support, basic systems administration, and virtualized environments. Currently focused on developing skills in defensive cybersecurity, log analysis, and practical labs with Active Directory and SIEM.
 </p>
 
 <ul>
