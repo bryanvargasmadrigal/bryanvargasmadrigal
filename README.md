@@ -14,7 +14,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x250?text=Cybersecurity+%7C+Technical+Support+%7C+Networking" />
+  <img src="./descargas/bannergithub" />
 </p>
 
 ---
