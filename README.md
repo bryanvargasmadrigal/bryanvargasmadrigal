@@ -14,7 +14,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="./descargas/bannergithub" />
+  <img src="bannergit.png" />
 </p>
 
 ---
