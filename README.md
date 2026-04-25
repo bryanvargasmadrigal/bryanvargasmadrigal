@@ -1,4 +1,4 @@
-<!-- HEADER -->
+ <!-- HEADER -->
 
 <h1 align="center">Brayan Vargas Madrigal</h1>
 <h3 align="center">Cybersecurity | Technical Support | Systems</h3>
@@ -110,7 +110,7 @@ Remote Support: AnyDesk • TeamViewer
 <h2>Projects</h2>
 
 <ul>
-  <li><b>Encrypted Backup Automation</b> — PowerShell scripts for secure backups</li>
+  <li><b>Encrypted Backup Automation</b> — PowerShell scripts for secure backups — <b>https://github.com/bryanvargasmadrigal/Backup-and-security</b></li>
   <li><b>Home Network Setup</b> — Network implementation and configuration</li>
   <li><b>Active Directory Lab</b> (in progress) — Security and monitoring scenarios</li>
 </ul>
