@@ -137,7 +137,7 @@ Remote Support: AnyDesk • TeamViewer
 <p>
 📧 b_vargasmadrigal@outlook.com <br>
 📍 San José, Costa Rica <br>
-GitHub: https://github.com/brayanvargasmadrigal
+GitHub: https://github.com/bryanvargasmadrigal
 </p>
 
 ---
